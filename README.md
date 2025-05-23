@@ -19,7 +19,7 @@ The goal is to move beyond just using libraries like `scikit-learn` or `PyTorch`
 
 | Model               | From Scratch | Notebook | Evaluation |
 |--------------------|--------------|----------|------------|
-| Linear Regression  | DONE           | 📓 [View](./linear-regression/LinearRegression.ipynb) | RMSE, R² |
+| Linear Regression  | DONE           | 📓 [View](./linear-regression/linear-regression.ipynb) | RMSE, R² |
 
 > More models coming soon:
 > - Logistic Regression  
